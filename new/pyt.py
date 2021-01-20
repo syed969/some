@@ -1,1 +1,1 @@
-print("syed mohammed khalander")
+print("syed khalander")
